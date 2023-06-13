@@ -266,4 +266,7 @@ div.background {
     background-color: #f9f9f9; 
     float: left;
   }
-  
+  .pic image
+  {
+    float: right;
+  }
